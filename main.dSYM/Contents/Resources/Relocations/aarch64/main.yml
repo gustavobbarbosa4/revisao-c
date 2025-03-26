@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/madupaulino/Documents/estudo c/output/main'
+relocations:     []
+...
